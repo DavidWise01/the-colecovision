@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The TMS9918A",
+  "universe": "CV · The TMS9918A (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The TMS9918A:CV:3ab7ec⟧",
+  "carbon": "the-cv-vdp.carbon.tiff (TIFF)",
+  "silicon": "the-cv-vdp.silicon.png (PNG)",
+  "seal_sha256": "2d404dd375c6bbc8c2e695b85e367b1cbaaaaa3f81c4d2c445c7483061d04411",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Expansion Module 1",
+  "universe": "CV · Expansion Module 1 (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦Expansion Module 1:CV:e32f26⟧",
+  "carbon": "the-cv-expansion.carbon.tiff (TIFF)",
+  "silicon": "the-cv-expansion.silicon.png (PNG)",
+  "seal_sha256": "d62e5889acbbec2516381d79669819cd50e1a69edf911092ab7e2da2ca3aa10d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

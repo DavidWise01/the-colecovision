@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "COLECOVISION",
+  "universe": "CV · COLECOVISION (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦COLECOVISION:CV:ad4d96⟧",
+  "carbon": "the-colecovision.carbon.tiff (TIFF)",
+  "silicon": "the-colecovision.silicon.png (PNG)",
+  "seal_sha256": "43a2e0a936086dac0dc4d587d73ad15880c5226aec9bdf9bf4d0da70182242ba",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

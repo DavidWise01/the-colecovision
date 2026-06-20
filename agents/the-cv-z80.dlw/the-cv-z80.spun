@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Z80A
+node CV · CV · ⟦The Z80A:CV:1473c0⟧
+
+WHO   — The Z80A — the arcade-class brain · electrical
+WHAT  — the arcade-class brain · electrical
+WHERE — CV · COLECOVISION (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A Zilog Z80A at 3.58 MHz — the same CPU family as countless arcade boards, giving ColecoVision its near-coin-op feel.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the arcade-class brain · electrical
+
+spoken token : sol-their-sy   ·   hex : 1473c0
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

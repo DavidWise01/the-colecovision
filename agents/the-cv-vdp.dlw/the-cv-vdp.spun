@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The TMS9918A
+node CV · CV · ⟦The TMS9918A:CV:3ab7ec⟧
+
+WHO   — The TMS9918A — 32 sprites, proven · electrical
+WHAT  — 32 sprites, proven · electrical
+WHERE — CV · COLECOVISION (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Texas Instruments' video chip — tiled backgrounds, 32 sprites, 16 colours — shared with home computers and the backbone of the console's strong ports.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  32 sprites, proven · electrical
+
+spoken token : leil-xor-phaen   ·   hex : 3ab7ec
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

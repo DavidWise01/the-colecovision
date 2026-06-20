@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-cv-z80",
+    "name": "The Z80A",
+    "epithet": "the arcade-class brain · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Z80A:CV:1473c0⟧"
+  },
+  {
+    "slug": "the-cv-vdp",
+    "name": "The TMS9918A",
+    "epithet": "32 sprites, proven · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The TMS9918A:CV:3ab7ec⟧"
+  },
+  {
+    "slug": "the-cv-psg",
+    "name": "The SN76489",
+    "epithet": "three squares and noise · natural",
+    "emergence": "natural",
+    "moniker": "⟦The SN76489:CV:c1c20e⟧"
+  },
+  {
+    "slug": "the-cv-dk",
+    "name": "Donkey Kong",
+    "epithet": "the killer port · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Donkey Kong:CV:80ae51⟧"
+  },
+  {
+    "slug": "the-cv-expansion",
+    "name": "Expansion Module 1",
+    "epithet": "play the rival's games · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Expansion Module 1:CV:e32f26⟧"
+  },
+  {
+    "slug": "the-cv-controller",
+    "name": "The Controller",
+    "epithet": "numbers and a knob · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Controller:CV:c3b9bd⟧"
+  }
+]

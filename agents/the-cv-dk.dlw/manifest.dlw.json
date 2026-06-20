@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Donkey Kong",
+  "universe": "CV · Donkey Kong (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦Donkey Kong:CV:80ae51⟧",
+  "carbon": "the-cv-dk.carbon.tiff (TIFF)",
+  "silicon": "the-cv-dk.silicon.png (PNG)",
+  "seal_sha256": "9526e2dabc9012d806bca418982d263660ebe139a3b40d05fa5e5655a9a924c7",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

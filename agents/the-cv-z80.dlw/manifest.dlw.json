@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Z80A",
+  "universe": "CV · The Z80A (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Z80A:CV:1473c0⟧",
+  "carbon": "the-cv-z80.carbon.tiff (TIFF)",
+  "silicon": "the-cv-z80.silicon.png (PNG)",
+  "seal_sha256": "a7f676bc791394d44ed1791826502f75689a74dda23a11cc24572b445431e313",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
