@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 861
 slug  : the-colecovision
-seal  : 43a2e0a936086dac0dc4d587d73ad15880c5226aec9bdf9bf4d0da70182242ba
-prev  : d6c363278614beb4a8b46e1d15926db9209e85b8021be6d05f8f1d3e98047e14
-link  : 71165d3ddcd7daf71b6de3fd02db5fffe0b52667246a609667381dba1a6310a2
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : e87f342a0867a05542eff2572b02b4a777c410f81ad2880065327fad3a45dfd1
+prev  : 7c3d8c63c0515cf9d185ce48d2fb2b98fe0994be80fca31f234b253644d3c735
+link  : d7cc14581f970c1b7b68c9d803d1fb1d9fb8d06f9e16b5fbd8798b8cf48f36ac
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
